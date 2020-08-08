@@ -1,0 +1,15 @@
+.wallpaper{
+        /* border: 1px solid black; */
+        background-image: url("https://www.publicdomainpictures.net/pictures/140000/velka/yellow-field-and-blue-sky-1446458456W4G.jpg"); /* The image used */
+        height: 100vh; /* You must set a specified height */
+        background-position: center; /* Center the image */
+        background-repeat: no-repeat; /* Do not repeat the image */
+        background-size: cover; /* Resize the background image to cover the entire container */
+        overflow: hidden;
+}
+.alice{
+        bottom: 0;
+        margin-bottom: 150px;
+
+
+}
