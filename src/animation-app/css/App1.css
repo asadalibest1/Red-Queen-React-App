@@ -1,6 +1,6 @@
 .wallpaper{
         /* border: 1px solid black; */
-        background-image: url("https://www.publicdomainpictures.net/pictures/140000/velka/yellow-field-and-blue-sky-1446458456W4G.jpg"); /* The image used */
+        background-image: url("https://ak.picdn.net/shutterstock/videos/11381228/thumb/1.jpg"); /* The image used */
         height: 100vh; /* You must set a specified height */
         background-position: center; /* Center the image */
         background-repeat: no-repeat; /* Do not repeat the image */
@@ -9,7 +9,7 @@
 }
 .alice{
         bottom: 0;
-        margin-bottom: 150px;
+        margin-bottom: 28px;
 
 
 }

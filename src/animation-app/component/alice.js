@@ -5,7 +5,6 @@ export default function Alice() {
 
 const aliceSprite = useRef(null);
   useLayoutEffect(() => {
-    // Alice
       var spriteFrames = [
         { transform: 'translateY(0)' },
         { transform: 'translateY(-100%)' }   

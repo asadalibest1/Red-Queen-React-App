@@ -3,7 +3,7 @@ import ReactDOM from 'react-dom';
 
 // import App from './prac/App';
 // import App from './animation-app/App';
-import App from './animation2/App';
+import App from './animation-app/App';
 
 ReactDOM.render(
   <React.StrictMode>
