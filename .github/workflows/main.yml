@@ -25,4 +25,4 @@ jobs:
       run: npm install -g surge
       
     - name: Deploy to Surge
-      run:  surge ./build https://redqueen-asad.surge.sh/ --token ${{secrets.Solvingthisproblem}}
+      run:  surge ./build https://redqueen-asad.surge.sh/ --token ${{secrets.SOLVINGTHISPROBLEM}}
