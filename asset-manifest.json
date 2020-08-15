@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/RedQueenReactApp.github.io/static/css/main.3ea922da.chunk.css",
+    "main.js": "/RedQueenReactApp.github.io/static/js/main.55032b73.chunk.js",
+    "main.js.map": "/RedQueenReactApp.github.io/static/js/main.55032b73.chunk.js.map",
+    "runtime-main.js": "/RedQueenReactApp.github.io/static/js/runtime-main.ea8ee6ad.js",
+    "runtime-main.js.map": "/RedQueenReactApp.github.io/static/js/runtime-main.ea8ee6ad.js.map",
+    "static/js/2.211f2996.chunk.js": "/RedQueenReactApp.github.io/static/js/2.211f2996.chunk.js",
+    "static/js/2.211f2996.chunk.js.map": "/RedQueenReactApp.github.io/static/js/2.211f2996.chunk.js.map",
+    "index.html": "/RedQueenReactApp.github.io/index.html",
+    "precache-manifest.111b2996f91d154e38f2ad8b8b142906.js": "/RedQueenReactApp.github.io/precache-manifest.111b2996f91d154e38f2ad8b8b142906.js",
+    "service-worker.js": "/RedQueenReactApp.github.io/service-worker.js",
+    "static/css/main.3ea922da.chunk.css.map": "/RedQueenReactApp.github.io/static/css/main.3ea922da.chunk.css.map",
+    "static/js/2.211f2996.chunk.js.LICENSE.txt": "/RedQueenReactApp.github.io/static/js/2.211f2996.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.ea8ee6ad.js",
+    "static/js/2.211f2996.chunk.js",
+    "static/css/main.3ea922da.chunk.css",
+    "static/js/main.55032b73.chunk.js"
+  ]
+}
