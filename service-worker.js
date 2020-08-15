@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/RedQueenReactApp.github.io/precache-manifest.111b2996f91d154e38f2ad8b8b142906.js"
+  "/RedQueenReactApp.github.io/precache-manifest.39c4ff0af3ce0c238d5828a2cd5db28d.js"
 );
 
 self.addEventListener('message', (event) => {

@@ -1,11 +1,11 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "01599e272dca3f2f569dbe5ff914f1e7",
+    "revision": "9114254f41940f013c4e0b4afccd60b3",
     "url": "/RedQueenReactApp.github.io/index.html"
   },
   {
-    "revision": "9649960a1361269f300b",
-    "url": "/RedQueenReactApp.github.io/static/css/main.3ea922da.chunk.css"
+    "revision": "7ba85bb5c8880b65b5a4",
+    "url": "/RedQueenReactApp.github.io/static/css/main.1e83db01.chunk.css"
   },
   {
     "revision": "c25b01079194f396896e",
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/RedQueenReactApp.github.io/static/js/2.211f2996.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "9649960a1361269f300b",
-    "url": "/RedQueenReactApp.github.io/static/js/main.55032b73.chunk.js"
+    "revision": "7ba85bb5c8880b65b5a4",
+    "url": "/RedQueenReactApp.github.io/static/js/main.c7f67af3.chunk.js"
   },
   {
     "revision": "b03bd6a0c0c44aa2ba1f",
